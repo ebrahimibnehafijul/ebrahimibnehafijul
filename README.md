@@ -1,6 +1,8 @@
 ## 👋 Hi There! I'm Ebrahim Ibne Hafizul  
 
-🎯 **Engineer | Python & Machine Learning Enthusiast | Lifelong Learner**  
+https://github.com/ebrahimibnehafijul <!--replace-->
+
+🎯 **CS Engineer | Python & Machine Learning Enthusiast | Lifelong Learner**  
 
 ---
 
