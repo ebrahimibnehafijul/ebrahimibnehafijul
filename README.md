@@ -3,14 +3,41 @@
 ---
 
 ### 🚀 About Me  
-I'm currently an **Intern**, learning **Machine Learning** using **Python**, **NumPy**, and **Pandas**.  
-I’m passionate about AI, data-driven solutions, and continuous learning. 🚀  
+I'm currently doing an **Internship** where I’m learning **Machine Learning using Python**, along with powerful libraries like **NumPy** and **Pandas**.  
+I’m passionate about exploring the world of **AI & Data Science**, solving real-world problems through data, and continuously learning new technologies.  
 
 ---
- 
+
+### 🌱 I’m Currently Learning  
+- 🔹Machine Learning Concepts 
+
+---
+
+### 🧠 Skills & Tools I'm Learning
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+  </a>
+</p>
+
+----
+
+### 🤝 Collaboration  
+I’m open to collaborate on **Machine Learning projects** or **Python-based works**.  
+Let’s connect, share ideas, and grow together! 💡  
+
+---
+
 ### 🌐 Connect With Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -25,28 +52,7 @@ I’m passionate about AI, data-driven solutions, and continuous learning. 🚀
   </a>
 </p>
 
-
----
-
-### 🤝 Collaboration  
-I’m open to collaborate on **Machine Learning projects** or **Python-based works**.  
-Let’s connect, share ideas, and grow together! 💡  
-
-
----
-
-### 💬 Ask Me About  
-- 🧠 Machine Learning   
-- 🐍 Python for Data Analytics  
-- 📊 Data Handling using NumPy & Pandas  
-- 💻 Coding Logic and Problem Solving  
-
----
-
-### 🌱 I’m Currently Learning  
-- 🔹 Advanced Machine Learning Concepts  
-- 🔹 Model Optimization & Evaluation  
-- 🔹 Data Visualization & Feature Engineering  
+  
 
 ---
 
