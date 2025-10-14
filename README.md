@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi There! I'm Ebrahim Ibne Hafizul  
 
-<!--
-**ebrahimibnehafijul/ebrahimibnehafijul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Engineer | Python & Machine Learning Enthusiast | Lifelong Learner**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+I'm currently an **Intern**, learning **Machine Learning** using **Python**, **NumPy**, and **Pandas**.  
+I’m passionate about AI, data-driven solutions, and continuous learning. 🚀  
+
+---
+
+### 🤝 Collaboration  
+I’m open to collaborate on **Machine Learning projects** or **Python-based works**.  
+Let’s connect, share ideas, and grow together! 💡  
+
+
+---
+
+### 💬 Ask Me About  
+- 🧠 Machine Learning   
+- 🐍 Python for Data Analytics  
+- 📊 Data Handling using NumPy & Pandas  
+- 💻 Coding Logic and Problem Solving  
+
+---
+
+### 📫 How to Reach Me  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/]    
+- ✉️ **Email:** [ebrahimibnehafizul@gmail.com]  
+
+---
+
+### 🌱 I’m Currently Learning  
+- 🔹 Advanced Machine Learning Concepts  
+- 🔹 Model Optimization & Evaluation  
+- 🔹 Data Visualization & Feature Engineering  
+
+---
+
+⭐ *"Keep learning, keep growing, and keep building amazing things!"*
