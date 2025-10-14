@@ -26,7 +26,8 @@ Let’s connect, share ideas, and grow together! 💡
 ---
 
 ### 📫 How to Reach Me  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/]    
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/]
+- 🐙 **GitHub:** [https://github.com/ebrahimibnehafijul] 
 - ✉️ **Email:** [ebrahimibnehafizul@gmail.com]  
 
 ---
