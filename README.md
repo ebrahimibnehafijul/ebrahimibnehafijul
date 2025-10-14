@@ -1,4 +1,4 @@
-## 👋 Hi There! I'm Ebrahim Ibne Hafizul  
+## 👋 Hi I'm Ebrahim Ibne Hafizul  
 
 ---
 
