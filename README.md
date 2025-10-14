@@ -52,7 +52,21 @@ Let’s connect, share ideas, and grow together! 💡
   </a>
 </p>
 
-  
+---
+
+### 📊 Stats & Activity
+
+<!-- GitHub Readme Stats: overall stats card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ebrahimibnehafijul&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<!-- Streak stats (contributions streak) -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahimibnehafijul&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
 
 ---
 
