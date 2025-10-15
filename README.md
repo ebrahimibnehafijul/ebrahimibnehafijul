@@ -29,22 +29,12 @@ Let’s connect, share ideas, and grow together! 💡
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ebrahimibnehafijul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="mailto:ebrahimibnehafizul@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/sabda.guccha.2025" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="48" height="48" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ebrahim-ibne-hafizul-71477a283/)
+[![GitHub](https://img.shields.io/badge/GitHub-@ebrahimibnehafijul-black?style=flat&logo=github)](https://github.com/ebrahimibnehafijul)
+[![Gmail](https://img.shields.io/badge/Gmail-ebrahimibnehafijul@gmail.com-red?style=flat&logo=gmail)](mailto:ebrahimibnehafijul@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat&logo=facebook)](https://www.facebook.com/sabda.guccha.2025/)
 
 ---
 
@@ -61,7 +51,6 @@ Let’s connect, share ideas, and grow together! 💡
 </p>
 
 
-
----
+----
 
 ⭐ *"Keep learning, keep growing, and keep building amazing things!"*
