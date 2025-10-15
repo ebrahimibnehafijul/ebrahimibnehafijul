@@ -13,19 +13,13 @@ I’m passionate about exploring the world of **AI & Data Science**, solving rea
 
 ---
 
-### 🧠 Skills & Tools I'm Learning
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-  </a>
-</p>
+### 🧰 Tools & Technologies I'm Learning:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-333?style=flat&logo=scikit-learn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
 ----
 
